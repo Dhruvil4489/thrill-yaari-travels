@@ -48,9 +48,5 @@ You are free to use, modify, and distribute this project for learning purposes.
 
 ## 📸 Screenshots
 ![Home Page](screenshots/Homepage.png)
-![Booking Page](screenshots/Train selection system.png)
-![Login Page](screenshots/login.png)
-![Trip Calculator](screenshots/Trip Calculator.png)
-
 
 ⭐ If you like this project, don’t forget to **star** the repository!
